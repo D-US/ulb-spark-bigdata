@@ -1,0 +1,31 @@
+,cv_step,endpoint,features_count,features,cv_lr_error,cv_dt_error
+0,1,"[1, 3334]",1,['item_id'],0.165660581825822,0.20672067206720673
+1,1,"[1, 3334]",2,"['item_id', 'number_of_sessions']",0.16567095606405557,0.20672067206720673
+2,1,"[1, 3334]",3,"['item_id', 'number_of_sessions', 'number_of_item_per_session']",0.16562498023095648,0.21002100210021002
+3,1,"[1, 3334]",4,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items']",0.16446701581834638,0.21002100210021002
+4,1,"[1, 3334]",5,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item']",0.16431565482342253,0.21002100210021002
+5,1,"[1, 3334]",6,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories']",0.16553833656726902,0.21002100210021002
+6,1,"[1, 3334]",7,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values']",0.16833699835116747,0.21002100210021002
+7,1,"[1, 3334]",8,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values', 'number_of_categories_for_session']",0.16826586345287817,0.2451245124512451
+8,1,"[1, 3334]",9,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values', 'number_of_categories_for_session', 'number_of_values_for_session']",0.16811534858564314,0.2559255925592559
+9,1,"[1, 3334]",10,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values', 'number_of_categories_for_session', 'number_of_values_for_session', 'category_id: 1']",0.0,0.0
+10,2,"[3334, 6667]",1,['item_id'],0.16310227787550702,0.20432043204320433
+11,2,"[3334, 6667]",2,"['item_id', 'number_of_sessions']",0.16322787412786544,0.22172217221722174
+12,2,"[3334, 6667]",3,"['item_id', 'number_of_sessions', 'number_of_item_per_session']",0.16326744987716027,0.21272127212721273
+13,2,"[3334, 6667]",4,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items']",0.1642219191877861,0.20432043204320433
+14,2,"[3334, 6667]",5,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item']",0.1626693281644639,0.20432043204320433
+15,2,"[3334, 6667]",6,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories']",0.1626456836553079,0.20942094209420942
+16,2,"[3334, 6667]",7,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values']",0.16279944051232545,0.20942094209420942
+17,2,"[3334, 6667]",8,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values', 'number_of_categories_for_session']",0.16339651637676092,0.2085208520852085
+18,2,"[3334, 6667]",9,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values', 'number_of_categories_for_session', 'number_of_values_for_session']",0.16318440371818732,0.20642064206420643
+19,2,"[3334, 6667]",10,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values', 'number_of_categories_for_session', 'number_of_values_for_session', 'category_id: 1']",0.0,0.0
+20,3,"[6667, 10000]",1,['item_id'],0.18751070759800165,0.24602460246024602
+21,3,"[6667, 10000]",2,"['item_id', 'number_of_sessions']",0.18756974120530812,0.24602460246024602
+22,3,"[6667, 10000]",3,"['item_id', 'number_of_sessions', 'number_of_item_per_session']",0.18748721012819156,0.24692469246924692
+23,3,"[6667, 10000]",4,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items']",0.1867454880198906,0.25472547254725475
+24,3,"[6667, 10000]",5,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item']",0.19071637587407722,0.25472547254725475
+25,3,"[6667, 10000]",6,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories']",0.19061892808133363,0.25472547254725475
+26,3,"[6667, 10000]",7,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values']",0.19114540093722568,0.25472547254725475
+27,3,"[6667, 10000]",8,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values', 'number_of_categories_for_session']",0.1913899634947876,0.25472547254725475
+28,3,"[6667, 10000]",9,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values', 'number_of_categories_for_session', 'number_of_values_for_session']",0.1911056048288183,0.25472547254725475
+29,3,"[6667, 10000]",10,"['item_id', 'number_of_sessions', 'number_of_item_per_session', 'number_of_items', 'number_of_session_per_item', 'number_of_categories', 'number_of_values', 'number_of_categories_for_session', 'number_of_values_for_session', 'category_id: 1']",0.0,0.0
